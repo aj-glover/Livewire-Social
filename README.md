@@ -175,7 +175,7 @@ Open [http://localhost:3000](http://localhost:3000).
 - [ ] Mobile apps (React Native)
 - [ ] OAuth providers (Google, Apple)
 - [ ] Group messaging
-- [ ] Clinician / sponsor portal with anonymized trend export
+
 
 ---
 
